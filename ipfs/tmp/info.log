@@ -17949,3 +17949,87 @@ cipher:chacha20-ietf
 
 [2023-11-24 02:03:36] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MTIwLjI0MC44OC4xMTE6NzcwNjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46YWtaaE5FWXgvP3JlbWFya3M9OEorSHFQQ2ZoN05mUTA1ZjVMaXQ1WnU5TFQ3d240ZTY4SitIdUY5VlUxL252bzdsbTcwPSZvYmZzcGFyYW09VkVkQWQyRnVaMk5oYVY4eCZwcm90b3BhcmFtPU9EUXlOak02TTJkcU4yRkM=
 cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://ODguMjEwLjM3LjEyNDo0MTAwODphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOmVWQkxjbVY0V0dGV1RVRllSbVpsZWc9PS8/b2Jmc3BhcmFtPU1HVmpOVFF5T0RBNE5DNWtiM2R1Ykc5aFpDNTNhVzVrYjNkemRYQmtZWFJsTG1OdmJRJnByb3RvcGFyYW09TWpnd09EUTZhMlkwTjFobSZyZW1hcmtzPTU3Nk81WnU5WHpFeE1USXpNVFkmZ3JvdXA9
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MTE5LjIzNy4xOTUuMjMwOjU0MzphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblE9Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9OEorSHJmQ2ZoN0F0NmFhWjVyaXZMVEV4T1M0eU16Y3VNVGsxTGpJek1BPT0mZ3JvdXA9
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://NDIuOTguMjcuMTgzOjU0MzphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblE9Lz9vYmZzcGFyYW09ZEM1dFpTOTJjRzVvWVhRJnByb3RvcGFyYW09TXpnM016VTZURXhNVEdobmRXcG9hbWcyTnpjNE5tZG8mcmVtYXJrcz02YWFaNXJpdlh6RXhNVFEyTnpjJmdyb3VwPVUxTlNVSEp2ZG1sa1pYSQ==
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://NDIuOTguMjcuMTgzOjU0MzphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblE9Lz9vYmZzcGFyYW09WkVNMWRGcFRPVEpqUnpWdldWaFImcHJvdG9wYXJhbT1OVEV6TmpFNk5qZHRaa2xVYjB3NE5GQnVXbkV3WkEmcmVtYXJrcz02YWFaNXJpdlh6RXhNVFF6TXpZJmdyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJR
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://Y25nZGNtLmRlYnVnZXgueHl6OjU2MDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP2dyb3VwPVUxTlNVSEp2ZG1sa1pYSSZyZW1hcmtzPThKLUhxUENmaDdNZ1EwNGdNaURpaHBJZ2IzQmxibWwwYzNWaUxtTnZiUSZvYmZzcGFyYW09JnByb3RvcGFyYW09TlRJNE56VTZRV0V4TVRJeU1URQ
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://aWVwbDEubm5vb2RkZWUueHl6OjIwMzE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6aHR0cF9zaW1wbGU6WTNoemMzSTVNVEUvP2dyb3VwPVUxTlNVSEp2ZG1sa1pYSSZyZW1hcmtzPTVyVzM1WTJYNTV5QjVyVzM1WStqNWJpQ0xXbGxjR3d4TG01dWIyOWtaR1ZsTG5oNWVnPT0mb2Jmc3BhcmFtPVptVTVPVE0yTmpBekxtMXBZM0p2YzI5bWRDNWpiMjAmcHJvdG9wYXJhbT1Oall3TXpwbWJFcHhiRTA=ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo2MTI6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RPS8/b2Jmc3BhcmFtPVZGZHdUMkpXY0hSVlZFNU9Wa1ZXTVZsc1pITmhiVTUwVDFod2FVMXNiM2RVUnpGUFpHMUtVZz09JnByb3RvcGFyYW09JnJlbWFya3M9OEorSHB2Q2ZoN1l0NXJtVzVZMlg1NXlCTFdWa2RXRnNiQzVpZFhwNmJHbHVaUzV2Y21jPQ==
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo2MTI6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RPS8/b2Jmc3BhcmFtPVZGZHdUMkpXY0hSVlZFNU9Wa1ZXTVZsc1pITmhiVTUwVDFod2FVMXNiM2RVUnpGUFpHMUtVZz09JnByb3RvcGFyYW09JnJlbWFya3M9WldSMVlXeHNMbUoxZW5wc2FXNWxMbTl5Wnc9PQ==
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://c2hjdXp4aGsuZXVjZHVybC5tZTo1NjI6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9yZW1hcmtzPVEwN2pnSkRrdTVqb3RMbm1qcWpvalpEdnZKcG9kSFJ3Y3pvdkwyZHZieTVuY3k5MmFYRGpnSkUmcHJvdG9wYXJhbT1Oak00TURrNlUxWkpVRlJKV2pnJm9iZnNwYXJhbT1WRmR3VDJKV2NIUlZWRTVPVmtWV01WbHNaSE5oYlU1MFQxaHdhVTFzYjNkVVJ6RlBaRzFLVWcmZ3JvdXA9YUhSMGNITTZMeTkyTW5KaGVYTmxMbU52YlE
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://NDIuOTguMjcuMTgzOjU0MzphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblE9Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TlRFek5qRTZOamR0WmtsVWIwdzRORkJ1V25Fd1pBJnJlbWFya3M9NmFhWjVyaXZYekV4TURRek5qZyZncm91cD0=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:19] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MTE2LjEyOS4yNTMuNjozOTQzOTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46UjJoUmNrUlQvP2dyb3VwPVUxTlNVSEp2ZG1sa1pYSSZyZW1hcmtzPThKLUhyX0NmaDdVZzZZTzA1YmVlNklHVTZZQ2FMVlJ2YTNsdkxVeHBibTlrWlEmb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUSZwcm90b3BhcmFtPU56RXdNREk2YjJJeFMyZzI
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:23] Main-Line-799-allcipher.find(cipher.upper())-j:{"add": "192.74.249.145", "ps": "\ud83c\uddfa\ud83c\uddf8-\u7f8e\u56fd-192.74.249.145", "port": 30000, "id": "418048af-a293-4b99-9b0c-98ca3580dd24", "aid": "64", "net": "ws", "type": "", "host": "", "path": "/path/142023143532", "tls": "tls", "sni": "", "alpn": "", "fp": "", "scy": ""}
+cipher:
+
+[2023-11-24 03:52:24] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://YnM0Lmp5bXpmZmJxdWF3bC5jb206NTUwMzphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46Y21WdWVtaGxZMnh2ZFdRPS8/cmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRlNjhKK0h1RjlWVTEvbnZvN2xtNzA9Jm9iZnNwYXJhbT1WRWRBZDJGdVoyTmhhVjh4JnByb3RvcGFyYW09TWpjM01qY3lPa3g2VTJJeWNRPT0=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:24] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://Y20wMS5uZXdjb21lLnh5ejo3NzAwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpha1poTkVZeC8/b2Jmc3BhcmFtPVZFZEFkMkZ1WjJOaGFWOHgmcHJvdG9wYXJhbT0mcmVtYXJrcz01Ym0vNUxpYzU1eUI1byt0NlppejViaUNMV050TURFdWJtVjNZMjl0WlM1NGVYbz0=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:25] Main-Line-799-allcipher.find(cipher.upper())-j:{"add": "162.159.142.244", "ps": "\ud83c\uddfa\ud83c\uddf8-\u7f8e\u56fd-162.159.142.244", "port": 80, "id": "a0b08118-dfd3-4be6-8a70-a509f15b381d", "aid": "0", "net": "ws", "type": "vmess", "host": "uk3-n18sby2c2uwobdbq.mybestjj.com", "path": "/", "tls": "", "sni": "", "alpn": "", "fp": "", "scy": ""}
+cipher:
+
+[2023-11-24 03:52:25] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MTEyLjE2LjI0NC4xMDE6NTUwMDphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46Y21WdWVtaGxZMnh2ZFdRPS8/b2Jmc3BhcmFtPSZyZW1hcmtzPU1URXlMakUyTGpJME5DNHhNREU9
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:26] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MTIwLjI0MC44OC4xMTE6NzcwNjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46YWtaaE5FWXgvP29iZnNwYXJhbT0mcmVtYXJrcz1NVEl3TGpJME1DNDRPQzR4TVRFPQ==
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:26] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://eWQtMDIucGFvZnVubGluay5jb206MTA4MjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46WW5oemJuVmpjbWRyTm1obWFYTm8vP3JlbWFya3M9NWJtLzVMaWM1NXlCNWJtLzViZWU1YmlDTFhsa0xUQXlMbkJoYjJaMWJteHBibXN1WTI5dCZvYmZzcGFyYW09VkVkQWQyRnVaMk5oYVY4eCZwcm90b3BhcmFtPU56VXlNVG94TWtoelQzVT0=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:26] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://eWQtMDIucGFvZnVubGluay5jb206MTA4MDphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46WW5oemJuVmpjbWRyTm1obWFYTm8vP29iZnNwYXJhbT1WRWRBZDJGdVoyTmhhVjh4JnByb3RvcGFyYW09JnJlbWFya3M9ZVdRdE1ESXVjR0Z2Wm5WdWJHbHVheTVqYjIwPQ==
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:26] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://cHIzLmp5bXpmZmJxdWF3bC5jb206NTUwMTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46Y21WdWVtaGxZMnh2ZFdRPS8/cmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRlNjhKK0h1RjlWVTEvbnZvN2xtNzA9Jm9iZnNwYXJhbT1WRWRBZDJGdVoyTmhhVjh4JnByb3RvcGFyYW09TWpjM01qY3lPa3g2VTJJeWNRPT0=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:26] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://YnM0Lmp5bXpmZmJxdWF3bC5jb206NTUwMjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46Y21WdWVtaGxZMnh2ZFdRPS8/cmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRlNjhKK0h1RjlWVTEvbnZvN2xtNzA9Jm9iZnNwYXJhbT1WRWRBZDJGdVoyTmhhVjh4JnByb3RvcGFyYW09TWpjM01qY3lPa3g2VTJJeWNRPT0=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:26] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MTIwLjI0MC44OC4xMTE6NzcwOTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46YWtaaE5FWXgvP29iZnNwYXJhbT1WRWRBZDJGdVoyTmhhVjh4JnByb3RvcGFyYW09JnJlbWFya3M9TVRJd0xqSTBNQzQ0T0M0eE1URT0=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:26] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://eWQtMDUucGFvZnVubGluay5jb206MTA4MDphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46WW5oemJuVmpjbWRyTm1obWFYTm8vP3JlbWFya3M9NWJtLzVMaWM1NXlCNWJtLzViZWU1YmlDTFhsa0xUQTFMbkJoYjJaMWJteHBibXN1WTI5dCZvYmZzcGFyYW09Wm1JM1ltTTNOVEl4TG0xcFkzSnZjMjltZEM1amIyMD0mcHJvdG9wYXJhbT1OelV5TVRveE1raHpUM1U9
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:27] Main-Line-799-allcipher.find(cipher.upper())-j:{"add": "mehdi9.star-one.cfd", "port": "80", "id": "b3876615-7150-4578-88ab-b764e949229d", "aid": "0", "scy": "", "net": "ws", "ps": "\ud83c\udde6\ud83c\uddf6-\u672c\u673a\u5730\u5740-mehdi9.star-one.cfd", "host": "", "path": "/forwardv2ray", "tls": "", "sni": "", "type": "vmess", "serverPort": 0, "nation": ""}
+cipher:
+
+[2023-11-24 03:52:27] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MTIwLjIzMi4xNzcuMjUwOjEwODA6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnBsYWluOlluaHpiblZqY21kck5taG1hWE5vLz9yZW1hcmtzPTVibS81TGljNTV5QjVibS81YmVlNWJpQ0xURXlNQzR5TXpJdU1UYzNMakkxTUE9PSZvYmZzcGFyYW09VkVkQWQyRnVaMk5oYVY4eCZwcm90b3BhcmFtPU5EQTFOelU2WmxZelRuaHg=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:27] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://eWQtMDUucGFvZnVubGluay5jb206MTA4MzphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46WW5oemJuVmpjbWRyTm1obWFYTm8vP3JlbWFya3M9OEorSHFQQ2ZoN05mUTA1ZjVMaXQ1WnU5TFQ3d240ZTY4SitIdUY5VlUxL252bzdsbTcwPSZvYmZzcGFyYW09VkVkQWQyRnVaMk5oYVY4eCZwcm90b3BhcmFtPU5EQTFOelU2WmxZelRuaHg=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:28] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MTIwLjI0MC44OC4xMTE6NzcwNjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46YWtaaE5FWXgvP29iZnNwYXJhbT1WRWRBZDJGdVoyTmhhVjh4JnByb3RvcGFyYW09JnJlbWFya3M9TVRJd0xqSTBNQzQ0T0M0eE1URT0=
+cipher:chacha20-ietf
+
+[2023-11-24 03:52:28] Main-Line-799-allcipher.find(cipher.upper())-j:{"add": "172.67.81.238", "ps": "\ud83c\uddfa\ud83c\uddf8-\u7f8e\u56fd-172.67.81.238", "port": 8880, "id": "617c9bc4-4116-41c6-99e0-ace49a38fcdb", "aid": "0", "net": "ws", "type": "vmess", "host": "fr7.tehme100.fun", "path": "/Jnv8ViZOUVgijjOh0p5uGjHnXIiY", "tls": "", "sni": "", "alpn": "", "fp": "", "scy": ""}
+cipher:
+
+[2023-11-24 03:52:28] Main-Line-799-allcipher.find(cipher.upper())-j:{"add": "188.114.97.7", "ps": "\ud83c\udde6\ud83c\uddf6-\u5df4\u897f\u5723\u4fdd\u7f57-188.114.97.7", "port": 443, "id": "03fcc618-b93d-6796-6aed-8a38c975d581", "aid": "1", "net": "ws", "type": "vmess", "host": "waynn.makeup", "path": "linkvws", "tls": "tls", "sni": "", "alpn": "", "fp": "", "scy": ""}
+cipher:
