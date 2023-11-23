@@ -7154,3 +7154,36 @@ ConT:ssr://112.16.244.108:4500:auth_aes128_sha1:chacha20-ietf:plaincmVuemhlY2xvd
 
 [2023-11-23 17:01:10] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xd7 in position 0: invalid continuation byte
 ConT:ssr://120.232.177.250:1070:auth_aes128_sha1:chacha20-ietf:plainYnhzbnVjcmdrNmhmaXNoremarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdOREUlM0Q=&obfsparam=&protoparam=TkRBMU56VTZabFl6VG5oeA==
+
+[2023-11-23 18:58:05] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm01.newcome.xyz:7703:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MiwzLDQsNiwxOXzmnKrlkb3lkI0gIzM2&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==&group=VTFOU1VISnZkbWxrWlhJ
+
+[2023-11-23 18:58:08] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xd7 in position 0: invalid continuation byte
+ConT:ssr://112.16.244.101:5501:auth_aes128_sha1:chacha20-ietf:plaincmVuemhlY2xvdWQ=remarks=MTl8OEorSHFQQ2ZoN05mUTA1ZjVMaXQ1WnU5TFQ3d240Li4uICMx&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=
+
+[2023-11-23 18:58:08] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm03.newcome.xyz:6708:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8NXBhdzVZcWc1WjJoSUMwZzVwYXc1WXFnNVoyaElDLi4uICMxOA==&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-23 18:58:09] Main-Line-547-Exception:Invalid base64-encoded string: number of data characters (185) cannot be 1 more than a multiple of 4
+ConT:ssr://120.240.88.111:7701:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MiwzLDQsNiwxMiwxOXzmnKrlkb3lkI0gIzI0&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==&group=VTFOU1VISnZkbWxrWlhJ
+
+[2023-11-23 18:58:22] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm01.newcome.xyz:5700:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8NUxpdDVadTlJQzBnNVklMkJ3NXJtJTJCSUMwZ1EyLi4u&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-23 18:58:30] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xd7 in position 0: invalid continuation byte
+ConT:ssr://112.16.244.20:3507:auth_aes128_sha1:chacha20-ietf:plaincmVuemhlY2xvdWQ=remarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdOVGslM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=TWpjM01qY3lPa3g2VTJJeWNRJTNEJTNE
+
+[2023-11-23 18:58:32] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xcf in position 0: invalid continuation byte
+ConT:ssr://zx02.endhigh.xyz:6701:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdOREElM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-23 18:58:34] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xce in position 1: invalid continuation byte
+ConT:ssr://bs4.jymzffbquawl.com:3045:auth_aes128_sha1:chacha20-ietf:plaincmVuemhlY2xvdWQ=remarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXhOVE0lM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=TWpjM01qY3lPa3g2VTJJeWNRJTNEJTNE
+
+[2023-11-23 18:58:35] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xd7 in position 0: invalid continuation byte
+ConT:ssr://120.232.177.250:1080:auth_aes128_sha1:chacha20-ietf:plainYnhzbnVjcmdrNmhmaXNoremarks=MTl85pyq5ZG95ZCNICMzOQ==&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=TkRBMU56VTZabFl6VG5oeA==
+
+[2023-11-23 18:58:35] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xdf in position 3: invalid continuation byte
+ConT:ssr://36.133.145.142:3502:auth_aes128_sha1:chacha20-ietf:plaincmVuemhlY2xvdWQ=remarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdOVFElM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=TWpjM01qY3lPa3g2VTJJeWNRJTNEJTNE
+
+[2023-11-23 18:58:35] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xdf in position 3: invalid continuation byte
+ConT:ssr://36.133.145.163:3501:auth_aes128_sha1:chacha20-ietf:plaincmVuemhlY2xvdWQ=remarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdPRFklM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=TWpjM01qY3lPa3g2VTJJeWNRJTNEJTNE
