@@ -22380,3 +22380,4 @@
 3.72.182.65:22222:telegram-id-directvpn
 103.252.116.243:443:057177db-f003-40dc-a14b-488e8ceefcaa
 35.181.147.60:22222:telegram-id-directvpn
+13.50.123.160:22222:telegram-id-directvpn
