@@ -22373,4 +22373,9 @@
 18.158.168.229:22222:telegram-id-privatevpns
 5.104.108.109:443:6aa57109-6cca-4939-8202-3e4baab15ccc
 36.228.203.34:443:29ea82cf-f956-42b2-a5dc-35feea39e7ff
-185.172.113.182:811:G!yBwPWH3Vao
+185.172.113.182:811
+:G!yBwPWH3Vao
+18.168.209.17:22222:telegram-id-privatevpns
+13.37.176.33:22222:telegram-id-directvpn
+3.72.182.65:22222:telegram-id-directvpn
+103.252.116.243:443:057177db-f003-40dc-a14b-488e8ceefcaa
