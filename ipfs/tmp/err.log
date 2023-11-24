@@ -7571,3 +7571,51 @@ ConT:ssr://120.240.88.111:5700:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremar
 
 [2023-11-24 09:25:57] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
 ConT:ssr://cm03.newcome.xyz:6703:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdNakklM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-24 11:12:32] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm03.newcome.xyz:6702:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdOak0lM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-24 11:12:32] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9b in position 3: invalid start byte
+ConT:ssr://cn11.mynode.me:8403:origin:rc4-md5:http_simplecGFzc3dkremarks=MTJ8NXBlbDVweXNNRE0=&obfsparam=TWpBek9UVXRVVUZhT0RBeU5UQXhPSHA2YWk1a2IzZHViRzloWkM1dGFXTnliM052Wm5RdVkyOXQ=&protoparam=&group=U1ZCTVF5NVdTVkE=
+
+[2023-11-24 11:12:32] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9b in position 3: invalid start byte
+ConT:ssr://cn14.mynode.me:8411:origin:rc4-md5:http_simplecGFzc3dkremarks=MTJ8NXBlbDVweXNNVEU=&obfsparam=TWpBek9UVXRVVUZhT0RBeU5UQXhPSHA2YWk1a2IzZHViRzloWkM1dGFXTnliM052Wm5RdVkyOXQ=&protoparam=&group=U1ZCTVF5NVdTVkE=
+
+[2023-11-24 11:12:32] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9b in position 3: invalid start byte
+ConT:ssr://cn08.mynode.me:8212:origin:rc4-md5:http_simplecGFzc3dkremarks=MTJ8NXBhdzVZcWc1WjJoTVRJ&obfsparam=TWpBek9UVXRVVUZhT0RBeU5UQXhPSHA2YWk1a2IzZHViRzloWkM1dGFXTnliM052Wm5RdVkyOXQ=&protoparam=&group=U1ZCTVF5NVdTVkE=
+
+[2023-11-24 11:12:32] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9b in position 3: invalid start byte
+ConT:ssr://cn12.mynode.me:8406:origin:rc4-md5:http_simplecGFzc3dkremarks=MTJ8NXBlbDVweXNNRFk=&obfsparam=TWpBek9UVXRVVUZhT0RBeU5UQXhPSHA2YWk1a2IzZHViRzloWkM1dGFXTnliM052Wm5RdVkyOXQ=&protoparam=&group=U1ZCTVF5NVdTVkE=
+
+[2023-11-24 11:12:32] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm01.newcome.xyz:7703:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MiwzLDQsNiwxMiwxOXw4SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjQuLi4gIzQ=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==&group=VTFOU1VISnZkbWxrWlhJ
+
+[2023-11-24 11:12:45] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xcf in position 0: invalid continuation byte
+ConT:ssr://zx02.endhigh.xyz:6700:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdOamslM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-24 11:12:57] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xcf in position 0: invalid continuation byte
+ConT:ssr://zx02.endhigh.xyz:6706:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdOekklM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-24 11:12:57] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm03.newcome.xyz:6709:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdOVGMlM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-24 11:13:16] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm03.newcome.xyz:6705:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdNamclM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-24 11:13:16] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xd7 in position 0: invalid continuation byte
+ConT:ssr://120.240.88.111:5703:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8NUxpdDVadTlJQzBnNVklMkJ3NXJtJTJCSUMwZ1EyLi4uICMx&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-24 11:13:19] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xce in position 1: invalid continuation byte
+ConT:ssr://bs4.jymzffbquawl.com:5502:auth_aes128_sha1:chacha20-ietf:plaincmVuemhlY2xvdWQ=remarks=Miw0LDE5fDhKK0hxUENmaDdOZlEwNWY1TGl0NVp1OUxUN3duNC4uLg==&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=
+
+[2023-11-24 11:13:20] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm01.newcome.xyz:7701:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MiwzLDQsNiwxMiwxOXzmnKrlkb3lkI0gIzU5&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==&group=VTFOU1VISnZkbWxrWlhJ
+
+[2023-11-24 11:14:11] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xd7 in position 0: invalid continuation byte
+ConT:ssr://112.16.244.106:3500:auth_aes128_sha1:chacha20-ietf:plaincmVuemhlY2xvdWQ=remarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdPRFUlM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=TWpjM01qY3lPa3g2VTJJeWNRJTNEJTNE
+
+[2023-11-24 11:14:13] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xc9 in position 0: invalid continuation byte
+ConT:ssr://yd-06.paofunlink.com:5958:auth_aes128_sha1:chacha20-ietf:plainYnhzbnVjcmdrNmhmaXNoremarks=MTJ8NUxpdDVadTlJQzBnNmFhWjVyaXZJQzBnUVd0aGNtLi4uICMyMw==&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=TkRBMU56VTZabFl6VG5oeA==
+
+[2023-11-24 11:14:14] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xc9 in position 0: invalid continuation byte
+ConT:ssr://yd-05.paofunlink.com:1094:auth_aes128_sha1:chacha20-ietf:plainYnhzbnVjcmdrNmhmaXNoremarks=MTJ8NXBhdzVZcWc1WjJoSUMwZzVwYXc1WXFnNVoyaElDLi4uICMy&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=TkRBMU56VTZabFl6VG5oeA==
