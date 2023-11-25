@@ -8183,3 +8183,19 @@ ConT:ssr://cn14.mynode.me:8413:origin:rc4-md5:http_simplecGFzc3dkremarks=MTJ8NXB
 
 [2023-11-25 11:02:47] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
 ConT:ssr://cm01.newcome.xyz:5704:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8UTA1ZmMzQmxaV1J1YjJSbFh6QXdNVFklM0Q=&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-25 12:52:42] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm01.newcome.xyz:7708:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=Miw0LDYsMTl8OEorSHFQQ2ZoN05mUTA1ZjVMaXQ1WnU5TFQ3d240Li4uICMy&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-25 12:52:51] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm01.newcome.xyz:5705:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8TlRBeE16YyUzRA==&obfsparam=VkVkQVkyTmlZVzlvWlElM0QlM0Q=&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-25 12:52:51] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
+ConT:ssr://cm01.newcome.xyz:3706:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8TlRBeE9EayUzRA==&obfsparam=VkVkQVkyTmlZVzlvWlElM0QlM0Q=&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-11-25 12:53:13] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 232: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1MzU3XHU5NzVlICAyIiwgImFkZCI6ICIxNTQuMTk4LjIyNC4zOCIsICJwb3J0IjogIjU2MTIwIiwgImlkIjogIjk3YmI5MTAzLTNhNWUtNDEwNC1hOTNkLTAwM2I2YTg1ZTk5NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZGNpLXNnLmNoYW5nZGluZy5tZSIsICJwYXRoIjogIi92bS10bHMwGVkPTIwNDgiLCAidGxzIjogInRscyIsICJzbmkiOiAiInw==
+
+
+[2023-11-25 12:53:16] Main-Line-547-Exception:Invalid base64-encoded string: number of data characters (177) cannot be 1 more than a multiple of 4
+ConT:ssr://120.240.88.111:7707:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MiwzLDQsNnzmnKrlkb3lkI0gIzIy&obfsparam=VkVkQWQyRnVaMk5oYVY4eA==&protoparam=T0RReU5qTTZNMmRxTjJGQw==&group=VTFOU1VISnZkbWxrWlhJ
