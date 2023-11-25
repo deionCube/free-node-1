@@ -22400,3 +22400,6 @@
 16.170.0.249:22222:telegram-id-directvpn
 52.50.105.142:22222:telegram-id-directvpn
 15.236.229.142:22222:telegram-id-privatevpns
+18.170.16.158:22222:telegram-id-privatevpns
+13.50.204.17:22222:telegram-id-directvpn
+3.77.176.45:22222:telegram-id-directvpn
