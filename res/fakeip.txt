@@ -22664,4 +22664,6 @@
 35.181.203.140:22222:telegram-id-directvpn
 5.104.107.143:443:d33df23a-8b9e-468e-bc33-dd3643008ced
 95.164.89.142:58603:5UyVcx4jYrcbFwmhPkhzim
-95.164.89.142:58603:5UyVcx4jYrcbFwmhPkhzim
+95.164.89.142:58603
+:5UyVcx4jYrcbFwmhPkhzim
+52.213.56.17:22222:telegram-id-directvpn
