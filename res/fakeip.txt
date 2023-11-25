@@ -22670,3 +22670,6 @@
 16.171.92.236:22222:telegram-id-privatevpns
 112.35.126.84:26700:c29248c5-bc75-48f6-adb8-6e34b6fad782
 100.21.16.61:22222:telegram-id-directvpn
+51.20.205.136:22222:telegram-id-directvpn
+95.164.87.138:63830:dPW6SKhVfqDevBfdrt5eJg
+95.164.87.138:63830:dPW6SKhVfqDevBfdrt5eJg
