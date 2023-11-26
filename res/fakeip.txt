@@ -22675,3 +22675,12 @@
 95.164.87.138:63830
 :dPW6SKhVfqDevBfdrt5eJg
 103.232.53.86:443:057177db-f003-40dc-a14b-488e8ceefcaa
+18.130.146.230:22222:telegram-id-directvpn
+18.130.81.68:22222:telegram-id-directvpn
+52.25.143.9:22222:telegram-id-directvpn
+16.170.181.107:22222:telegram-id-directvpn
+52.50.158.175:22222:telegram-id-directvpn
+13.39.202.6:22222:telegram-id-directvpn
+18.196.241.252:22222:telegram-id-privatevpns
+3.122.81.69:22222:telegram-id-privatevpns
+5.104.108.109:443:c29248c5-bc75-48f6-adb8-6e34b6fad782
