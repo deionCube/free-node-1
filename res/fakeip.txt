@@ -22704,3 +22704,14 @@
 16.170.67.206:22222:telegram-id-directvpn
 51.20.227.248:22222:telegram-id-privatevpns
 18.196.208.193:22222:telegram-id-directvpn
+35.178.27.190:22222:telegram-id-privatevpns
+18.170.183.12:22222:telegram-id-privatevpns
+72.14.177.221:443:1ea8cda8-b9bd-4b8c-862a-88951e586fb9
+16.171.119.131:22222:telegram-id-privatevpns
+13.48.33.79:22222:telegram-id-directvpn
+34.251.35.27:22222:telegram-id-directvpn
+13.36.254.66:22222:telegram-id-privatevpns
+51.210.182.170:443:3de20c00-8d43-11ee-9a36-1239d0255272
+5.104.108.109:443:e86e242e-b5d5-46ae-a410-3684f7d70ac2
+35.157.169.183:22222:telegram-id-privatevpns
+89.221.224.94:80:28c79056-ccfd-4cc1-93d4-c337cc782e65
