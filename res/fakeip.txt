@@ -22774,3 +22774,11 @@
 134.209.63.86:443:7e23957d-535a-4dc6-9482-e6f44518da87
 3.128.43.71:22222:telegram-id-directvpn
 5.104.108.120:443:e86e242e-b5d5-46ae-a410-3684f7d70ac2
+3.9.254.76:22222:telegram-id-privatevpns
+44.240.108.230:22222:telegram-id-directvpn
+16.16.248.5:22222:telegram-id-privatevpns
+18.200.112.114:22222:telegram-id-privatevpns
+54.78.34.57:22222:telegram-id-directvpn
+15.188.133.169:22222:telegram-id-directvpn
+18.153.211.205:22222:telegram-id-privatevpns
+120.204.94.87:34014:c82b2e40-8a24-4a4a-85c7-e123ee0ff3d0
