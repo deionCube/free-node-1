@@ -22790,3 +22790,4 @@
 139.162.35.40:443:a4712887-fcc9-4aef-9d92-066c8e8197f7
 3.72.22.0:22222:telegram-id-directvpn
 3.255.51.5:22222:telegram-id-directvpn
+52.56.243.46:22222:telegram-id-privatevpns
