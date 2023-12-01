@@ -51063,3 +51063,6 @@ dir01.netorigins2u.site:36864:8e0d7f03-1ba8-42c9-85e4-1d1af7445af4
 us-gy02.115cloud.link:25860:c16c7dba-13de-3b27-95e3-4c2bbbb6f4f3
 dir01.netorigins2u.site:36864:3806e051-5078-4804-baaa-6ec8d7a4e2be
 dir01.netorigins2u.site:36201:3806e051-5078-4804-baaa-6ec8d7a4e2be
+uk-gy.115cloud.link:52560:c16c7dba-13de-3b27-95e3-4c2bbbb6f4f3
+dir01.netorigins2u.site:36501:3806e051-5078-4804-baaa-6ec8d7a4e2be
+is-gy.115cloud.link:38860:c16c7dba-13de-3b27-95e3-4c2bbbb6f4f3
