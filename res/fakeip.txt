@@ -22830,3 +22830,5 @@
 3.248.92.47:22222:telegram-id-directvpn
 146.190.108.167:15876:FrbYUz2xeg
 3.72.66.105:22222:telegram-id-privatevpns
+13.37.83.99:22222:telegram-id-privatevpns
+172.104.243.55:443:16cbe8c5-30f6-4996-a0c1-ae892f487f3e
