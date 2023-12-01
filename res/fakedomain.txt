@@ -51057,3 +51057,5 @@ dir01.netorigins2u.site:36501:8e0d7f03-1ba8-42c9-85e4-1d1af7445af4
 dir01.netorigins2u.site:36116:8e0d7f03-1ba8-42c9-85e4-1d1af7445af4
 is-gy.115cloud.link:38860:b898621c-048a-394f-96fc-54b5be8a08df
 dir01.netorigins2u.site:36201:8e0d7f03-1ba8-42c9-85e4-1d1af7445af4
+uk-gy.115cloud.link:52560:2018122b-f6f0-3c16-81cb-269bcb0526da
+us-gy02.115cloud.link:25860:2018122b-f6f0-3c16-81cb-269bcb0526da
