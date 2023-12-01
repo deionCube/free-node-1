@@ -8867,3 +8867,6 @@ ConT:ssr://cm01.newcome.xyz:7709:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxrem
 
 [2023-11-29 11:44:35] Main-Line-547-Exception:'utf-8' codec can't decode byte 0x9d in position 3: invalid start byte
 ConT:ssr://cm01.newcome.xyz:3709:auth_aes128_sha1:chacha20-ietf:plainakZhNEYxremarks=MTJ8TlRBeE1UayUzRA==&obfsparam=VkVkQVkyTmlZVzlvWlElM0QlM0Q=&protoparam=T0RReU5qTTZNMmRxTjJGQw==
+
+[2023-12-01 11:39:31] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 132: invalid start byte
+onenode:vmess://eyJhZGQiOiAiaXQxLmNvdS5nYXkiLCAiYWlkIjogMCwgImhvc3QiOiAiaXQxLmNvdS5nYXkiLCAiaWQiOiAiNTY0ZWU3NTgtYWJlYi00OTUwLWIxM2YtZTRlZGJhMmYwMjU0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pdDE_ZWQ9MjA0OCIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDEyIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
