@@ -8927,3 +8927,15 @@ ConT:ssr://6a9f4.cdn.node.a.yddns-ounk.com:20626:auth_aes128_md5:chacha20-ietf:t
 
 [2023-12-03 01:56:48] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xcb in position 0: invalid continuation byte
 ConT:ssr://yyzgdv6.cdn.node.a.yddns-ounk.com:20396:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authSlhwWnBxremarks=MTJ8VmpJdE16azJmT21tbWVhNHIzeDRNaTR3&obfsparam=&protoparam=TVRneU56UTBPa1JUZUVWNWRRJTNEJTNE
+
+[2023-12-03 03:59:22] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xcb in position 0: invalid continuation byte
+ConT:ssr://yyhkss1.cdn.node.a.yddns-ounk.com:20381:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authSlhwWnBxremarks=MTJ8VmpRdE16Z3hmT21tbWVhNHIzeDRNaTR3&obfsparam=&protoparam=TVRneU56UTBPa1JUZUVWNWRRJTNEJTNE
+
+[2023-12-03 03:59:36] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xb7 in position 0: invalid start byte
+ConT:ssr://t9e6.cdn.node.a.yddns-ounk.com:20481:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authSlhwWnBxremarks=MTJ8VmpRdE5EZ3hmT21tbWVhNHIzeDRNaTR3&obfsparam=&protoparam=TVRneU56UTBPa1JUZUVWNWRRJTNEJTNE
+
+[2023-12-03 03:59:37] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xcb in position 0: invalid continuation byte
+ConT:ssr://yyhkss1.cdn.node.a.yddns-ounk.com:20380:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authSlhwWnBxremarks=MTJ8VmpRdE16Z3dmT21tbWVhNHIzeDRNaTR3&obfsparam=&protoparam=TVRneU56UTBPa1JUZUVWNWRRJTNEJTNE
+
+[2023-12-03 03:59:37] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xb7 in position 0: invalid start byte
+ConT:ssr://t9e6.cdn.node.a.yddns-ounk.com:20591:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authSlhwWnBxremarks=MTJ8VmpRdE5Ua3hmT21tbWVhNHIzeDRNUzR3&obfsparam=&protoparam=TVRneU56UTBPa1JUZUVWNWRRJTNEJTNE
