@@ -22843,3 +22843,15 @@
 3.71.224.200:22222:telegram-id-privatevpns
 3.75.73.143:22222:telegram-id-privatevpns
 193.123.87.138:15377:b083c1d0-dfc9-3dae-949d-b8091f67f711
+18.171.107.85:22222:telegram-id-privatevpns
+18.132.137.8:22222:telegram-id-directvpn
+35.83.236.159:22222:telegram-id-directvpn
+16.171.247.159:22222:telegram-id-directvpn
+54.170.78.155:22222:telegram-id-privatevpns
+99.80.151.102:22222:telegram-id-directvpn
+51.21.23.123:22222:telegram-id-privatevpns
+15.236.184.28:22222:telegram-id-privatevpns
+3.74.109.17:22222:telegram-id-directvpn
+52.28.68.41:22222:telegram-id-privatevpns
+36.228.229.227:443:29ea82cf-f956-42b2-a5dc-35feea39e7ff
+51.20.176.54:22222:telegram-id-directvpn
