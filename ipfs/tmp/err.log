@@ -8939,3 +8939,6 @@ ConT:ssr://yyhkss1.cdn.node.a.yddns-ounk.com:20380:auth_aes128_md5:chacha20-ietf
 
 [2023-12-03 03:59:37] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xb7 in position 0: invalid start byte
 ConT:ssr://t9e6.cdn.node.a.yddns-ounk.com:20591:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authSlhwWnBxremarks=MTJ8VmpRdE5Ua3hmT21tbWVhNHIzeDRNUzR3&obfsparam=&protoparam=TVRneU56UTBPa1JUZUVWNWRRJTNEJTNE
+
+[2023-12-03 06:02:41] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (441) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDM2IiwgImFkZCI6ICJoZXhzZW4uY29tIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImRlMDRhZGQ5LTVjNjgtOGJhYi05NTBjLTA4Y2Q1MzIwZGYxOCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYXJtb3ItcHJvZHVjdGl2aXR5LWhvcnNlLXNwYWluLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL2FyZ28tdm1lc3M_ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIifQ==
