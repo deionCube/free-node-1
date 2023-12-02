@@ -8914,3 +8914,10 @@ onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2
 
 [2023-12-02 15:24:38] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8b in position 302: invalid start byte
 onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDEzIiwgImFkZCI6ICIxMS5uYW1lc2lsbzEyMy50b3AiLCAicG9ydCI6ICIyMDgyIiwgImlkIjogIjNmYjMxNDdiLTBkYTUtNGM1Ni1hOTAwLTdjODgzZTBhOTc2MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAianBhbjMzLnNhbmZlbjAwMy50b3AiLCAicGF0aCI6ICIvZ3Jkb2hoZ3JkaDRoaGhoaGo_ZWQiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+
+
+[2023-12-02 23:49:05] Main-Line-547-Exception:'utf-8' codec can't decode bytes in position 0-1: invalid continuation byte
+ConT:ssr://6a9f4.cdn.node.a.yddns-ounk.com:20626:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authSlhwWnBxremarks=MTJ8VmpRdE5qSTJmT1dQc09hNXZueDRNaTR3&obfsparam=&protoparam=TVRneU56UTBPa1JUZUVWNWRRJTNEJTNE
+
+[2023-12-02 23:49:06] Main-Line-547-Exception:'utf-8' codec can't decode byte 0xcb in position 0: invalid continuation byte
+ConT:ssr://yyhkss1.cdn.node.a.yddns-ounk.com:20381:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authSlhwWnBxremarks=MTJ8VmpRdE16Z3hmT21tbWVhNHIzeDRNaTR3&obfsparam=&protoparam=TVRneU56UTBPa1JUZUVWNWRRJTNEJTNE
